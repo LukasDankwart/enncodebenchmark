@@ -1,0 +1,6 @@
+Log-file from 'building' test run over models/adversarial_example/AdversarialExample1.onnx. 
+ 
+OMLT to Pyomo Build Time: 16.3995 Seconds 
+Pyomo to GurobiPersistent Build Time: 3.7198 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 338.61     MByte 
+ 

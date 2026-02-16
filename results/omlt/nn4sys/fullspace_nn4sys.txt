@@ -1,0 +1,8 @@
+Log-file from 'building' test run over models/nn4sys/lindex_deep_modified.onnx. 
+ 
+Formulation type: FullSpaceNNFormulation 
+ 
+OMLT to Pyomo Build Time: 0.8337 Seconds 
+Pyomo to GurobiPersistent Build Time: 0.3012 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 27.66      MByte 
+ 

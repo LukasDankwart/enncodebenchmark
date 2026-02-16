@@ -1,0 +1,27 @@
+Log-file from 'building' test run over models/tllverifybench/tllBench_n=2_N=M=16_m=1_instance_1_0.onnx. 
+ 
+GurobiML Build time: 0.2422 seconds 
+GurobiML Memory: 21.44      MByte 
+Presolve call: 0.0569 seconds 
+
+
+Set parameter Username
+Set parameter LicenseID to value 2734490
+Academic license - for non-commercial use only - expires 2026-11-07
+Gurobi Optimizer version 12.0.3 build v12.0.3rc0 (win64 - Windows 11+.0 (26200.2))
+
+CPU model: AMD Ryzen 7 5700X 8-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 8 physical cores, 16 logical processors, using up to 16 threads
+
+Presolve a model with 1547 rows, 2569 columns and 4895 nonzeros
+Model fingerprint: 0xa24292ad
+Model has 1020 simple general constraints
+  1020 MAX
+Variable types: 2569 continuous, 0 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [3e-03, 2e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [4e-03, 2e+00]
+Presolve removed 283 rows and 776 columns
+Presolve time: 0.06s

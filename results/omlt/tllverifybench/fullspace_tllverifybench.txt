@@ -1,0 +1,8 @@
+Log-file from 'building' test run over models/tllverifybench/tllBench_n=2_N=M=16_m=1_instance_1_0.onnx. 
+ 
+Formulation type: FullSpaceNNFormulation 
+ 
+OMLT to Pyomo Build Time: 3.3201 Seconds 
+Pyomo to GurobiPersistent Build Time: 0.4217 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 57.91      MByte 
+ 

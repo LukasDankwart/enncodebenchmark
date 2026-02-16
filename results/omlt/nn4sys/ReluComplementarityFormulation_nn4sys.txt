@@ -1,0 +1,6 @@
+Log-file from 'building' test run over models/nn4sys/lindex_deep_modified.onnx. 
+ 
+OMLT to Pyomo Build Time: 0.8508 Seconds 
+Pyomo to GurobiPersistent Build Time: 0.3164 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 28.86      MByte 
+ 

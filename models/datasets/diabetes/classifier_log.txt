@@ -1,0 +1,168 @@
+/usr/bin/python3.10 /home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py
+/home/mustafa/.local/lib/python3.10/site-packages/pandas/core/computation/expressions.py:21: UserWarning: Pandas requires version '2.8.4' or newer of 'numexpr' (version '2.8.1' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+Epoch 1/500, Training Loss: 0.6571921518617058
+Epoch 1/500, Validation Loss: 0.6461163512591658
+Epoch 2/500, Training Loss: 0.6539149328761039
+Epoch 2/500, Validation Loss: 0.6432651158036857
+Epoch 3/500, Training Loss: 0.6526152982170134
+Epoch 3/500, Validation Loss: 0.6420541179591212
+Epoch 4/500, Training Loss: 0.6517063882097852
+Epoch 4/500, Validation Loss: 0.6405181781998996
+Epoch 5/500, Training Loss: 0.6506045036697743
+Epoch 5/500, Validation Loss: 0.6389380415965771
+Epoch 6/500, Training Loss: 0.6495752334594727
+Epoch 6/500, Validation Loss: 0.6377217851836106
+Epoch 7/500, Training Loss: 0.6485269236165052
+Epoch 7/500, Validation Loss: 0.6359763988133135
+Epoch 8/500, Training Loss: 0.6470675340799869
+Epoch 8/500, Validation Loss: 0.6339161642666521
+Epoch 9/500, Training Loss: 0.6450626309579534
+Epoch 9/500, Validation Loss: 0.6309284115659779
+Epoch 10/500, Training Loss: 0.6423271665803991
+Epoch 10/500, Validation Loss: 0.6276130039116432
+Epoch 11/500, Training Loss: 0.6377402602849281
+Epoch 11/500, Validation Loss: 0.6211195690878506
+Epoch 12/500, Training Loss: 0.6317154251219396
+Epoch 12/500, Validation Loss: 0.6132155358791351
+Epoch 13/500, Training Loss: 0.6238550257416411
+Epoch 13/500, Validation Loss: 0.6033951763449044
+Epoch 14/500, Training Loss: 0.6145554573398284
+Epoch 14/500, Validation Loss: 0.5930843353271484
+Epoch 15/500, Training Loss: 0.6051132159526121
+Epoch 15/500, Validation Loss: 0.580668451457188
+Epoch 16/500, Training Loss: 0.5935040410448497
+Epoch 16/500, Validation Loss: 0.5686350094860998
+Epoch 17/500, Training Loss: 0.583554388646529
+Epoch 17/500, Validation Loss: 0.5572674685511095
+Epoch 18/500, Training Loss: 0.5729454712494791
+Epoch 18/500, Validation Loss: 0.5456855112108691
+Epoch 19/500, Training Loss: 0.5617588529817663
+Epoch 19/500, Validation Loss: 0.5353278969896251
+Epoch 20/500, Training Loss: 0.5511661894494595
+Epoch 20/500, Validation Loss: 0.5288456267323988
+Epoch 21/500, Training Loss: 0.5491051779889972
+Epoch 21/500, Validation Loss: 0.5170599561313103
+Epoch 22/500, Training Loss: 0.5352900672003321
+Epoch 22/500, Validation Loss: 0.5094456487688525
+Epoch 23/500, Training Loss: 0.5285418690693889
+Epoch 23/500, Validation Loss: 0.502777753205135
+Epoch 24/500, Training Loss: 0.5235225554951076
+Epoch 24/500, Validation Loss: 0.4970722948682719
+Epoch 25/500, Training Loss: 0.5147884824422485
+Epoch 25/500, Validation Loss: 0.49866919065343923
+Epoch 26/500, Training Loss: 0.5126159495259575
+Epoch 26/500, Validation Loss: 0.4878907717507461
+Epoch 27/500, Training Loss: 0.5049188876840212
+Epoch 27/500, Validation Loss: 0.4841549745921431
+Epoch 28/500, Training Loss: 0.5031708045489739
+Epoch 28/500, Validation Loss: 0.4816866270427046
+Epoch 29/500, Training Loss: 0.4963352225124281
+Epoch 29/500, Validation Loss: 0.47683514089419926
+Epoch 30/500, Training Loss: 0.4916751930833529
+Epoch 30/500, Validation Loss: 0.4750576533120254
+Epoch 31/500, Training Loss: 0.4896876117148657
+Epoch 31/500, Validation Loss: 0.4712837019871021
+Epoch 32/500, Training Loss: 0.48835673068044794
+Epoch 32/500, Validation Loss: 0.47098205418422306
+Epoch 33/500, Training Loss: 0.48695597979387534
+Epoch 33/500, Validation Loss: 0.46774592995643616
+Epoch 34/500, Training Loss: 0.48341150234975405
+Epoch 34/500, Validation Loss: 0.46659697129808625
+Epoch 35/500, Training Loss: 0.48415970191831253
+Epoch 35/500, Validation Loss: 0.4664516233164689
+Epoch 36/500, Training Loss: 0.48318831053748035
+Epoch 36/500, Validation Loss: 0.46830313883978747
+Epoch 37/500, Training Loss: 0.4766793890927313
+Epoch 37/500, Validation Loss: 0.4617862732246004
+Epoch 38/500, Training Loss: 0.4765632709755356
+Epoch 38/500, Validation Loss: 0.4622958096964606
+Epoch 39/500, Training Loss: 0.4746561578754162
+Epoch 39/500, Validation Loss: 0.46548369732396355
+Epoch 40/500, Training Loss: 0.47544031008883786
+Epoch 40/500, Validation Loss: 0.4609809610350379
+Epoch 41/500, Training Loss: 0.4701191680280412
+Epoch 41/500, Validation Loss: 0.46026103044378347
+Epoch 42/500, Training Loss: 0.4684926518958818
+Epoch 42/500, Validation Loss: 0.45714059369317417
+Epoch 43/500, Training Loss: 0.46977568172209755
+Epoch 43/500, Validation Loss: 0.4574363663278777
+Epoch 44/500, Training Loss: 0.46729178979188146
+Epoch 44/500, Validation Loss: 0.45651137828826904
+Epoch 45/500, Training Loss: 0.46730948515666487
+Epoch 45/500, Validation Loss: 0.4608371679125161
+Epoch 46/500, Training Loss: 0.4666873726098897
+Epoch 46/500, Validation Loss: 0.4566326069420782
+Epoch 47/500, Training Loss: 0.46447325995958494
+Epoch 47/500, Validation Loss: 0.45561534474635945
+Epoch 48/500, Training Loss: 0.46261524699031753
+Epoch 48/500, Validation Loss: 0.4580521593833792
+Epoch 49/500, Training Loss: 0.4639481521962519
+Epoch 49/500, Validation Loss: 0.46187363513584795
+Epoch 50/500, Training Loss: 0.4651219966913291
+Epoch 50/500, Validation Loss: 0.4621478000591541
+Epoch 51/500, Training Loss: 0.46108045225036876
+Epoch 51/500, Validation Loss: 0.45317568450138485
+Epoch 52/500, Training Loss: 0.4623055648426326
+Epoch 52/500, Validation Loss: 0.4555092094273403
+Epoch 53/500, Training Loss: 0.46112309587734374
+Epoch 53/500, Validation Loss: 0.461326934140304
+Epoch 54/500, Training Loss: 0.4668545037008531
+Epoch 54/500, Validation Loss: 0.4523867101504885
+Epoch 55/500, Training Loss: 0.4635565497355754
+Epoch 55/500, Validation Loss: 0.4589636654689394
+Epoch 56/500, Training Loss: 0.46114358988554116
+Epoch 56/500, Validation Loss: 0.45451805714903204
+Epoch 57/500, Training Loss: 0.4569477848500513
+Epoch 57/500, Validation Loss: 0.45707721545778474
+Epoch 58/500, Training Loss: 0.45554955545084436
+Epoch 58/500, Validation Loss: 0.453045222265967
+Epoch 59/500, Training Loss: 0.45683079169893176
+Epoch 59/500, Validation Loss: 0.45712512114952353
+Epoch 60/500, Training Loss: 0.4568112238381384
+Epoch 60/500, Validation Loss: 0.4536398022339262
+Epoch 61/500, Training Loss: 0.4554519485716935
+Epoch 61/500, Validation Loss: 0.4537689716651522
+Epoch 62/500, Training Loss: 0.45550918040772836
+Epoch 62/500, Validation Loss: 0.45546784072086727
+Epoch 63/500, Training Loss: 0.45596652235176754
+Epoch 63/500, Validation Loss: 0.45508651075692014
+Epoch 64/500, Training Loss: 0.4569370824309479
+Epoch 64/500, Validation Loss: 0.45445350634640663
+Early stopping triggered
+Classification Accuracy: 0.7931034482758621
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.87      0.85        78
+           1       0.71      0.63      0.67        38
+
+    accuracy                           0.79       116
+   macro avg       0.77      0.75      0.76       116
+weighted avg       0.79      0.79      0.79       116
+
+graph(%0 : Float(8, strides=[1], requires_grad=0, device=cpu),
+      %fc1.bias : Float(24, strides=[1], requires_grad=1, device=cpu),
+      %fc2.bias : Float(16, strides=[1], requires_grad=1, device=cpu),
+      %fc3.bias : Float(8, strides=[1], requires_grad=1, device=cpu),
+      %fc4.bias : Float(2, strides=[1], requires_grad=1, device=cpu),
+      %24 : Float(8, 24, strides=[1, 8], requires_grad=0, device=cpu),
+      %25 : Float(24, 16, strides=[1, 24], requires_grad=0, device=cpu),
+      %26 : Float(16, 8, strides=[1, 16], requires_grad=0, device=cpu),
+      %27 : Float(8, 2, strides=[1, 8], requires_grad=0, device=cpu)):
+  %10 : Float(24, strides=[1], device=cpu) = onnx::MatMul(%0, %24) # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:103:0
+  %11 : Float(24, strides=[1], requires_grad=1, device=cpu) = onnx::Add(%fc1.bias, %10) # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:103:0
+  %12 : Float(24, strides=[1], requires_grad=1, device=cpu) = onnx::Relu(%11) # /home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py:67:0
+  %14 : Float(16, strides=[1], device=cpu) = onnx::MatMul(%12, %25) # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:103:0
+  %15 : Float(16, strides=[1], requires_grad=1, dbevice=cpu) = onnx::Add(%fc2.bias, %14) # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:103:0
+  %16 : Float(16, strides=[1], requires_grad=1, device=cpu) = onnx::Relu(%15) # /home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py:68:0
+  %18 : Float(8, strides=[1], device=cpu) = onnx::MatMul(%16, %26) # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:103:0
+  %19 : Float(8, strides=[1], requires_grad=1, device=cpu) = onnx::Add(%fc3.bias, %18) # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:103:0
+  %20 : Float(8, strides=[1], requires_grad=1, device=cpu) = onnx::Relu(%19) # /home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py:69:0
+  %22 : Float(2, strides=[1], device=cpu) = onnx::MatMul(%20, %27) # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:103:0
+  %23 : Float(2, strides=[1], requires_grad=1, device=cpu) = onnx::Add(%fc4.bias, %22) # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:103:0
+  return (%23)
+
+Model has been exported as datasets/diabetes/split/diabetes.onnx
+
+Process finished with exit code 0

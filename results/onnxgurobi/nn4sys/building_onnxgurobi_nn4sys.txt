@@ -1,0 +1,5 @@
+Log-file from 'building' test run over models/nn4sys/lindex_deep_modified.onnx. 
+ 
+ONNXGurobi Build time: 0.6650 seconds 
+ONNXGurobi Memory: 7.27       MByte 
+Presolve call: 0.4983 seconds 

@@ -1,0 +1,8 @@
+Log-file from 'building' test run over models/adversarial_example/AdversarialExample1.onnx. 
+ 
+Formulation type: FullSpaceNNFormulation 
+ 
+OMLT to Pyomo Build Time: 18.0005 Seconds 
+Pyomo to GurobiPersistent Build Time: 3.8509 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 334.46     MByte 
+ 

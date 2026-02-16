@@ -1,0 +1,125 @@
+pytorch2.5.1:ë[
+º
+onnx::MatMul_0
+onnx::MatMul_12/fc1/MatMul_output_0/fc1/MatMul"MatMul2ÌC:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\linear.py(125): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\classifiers.py(24): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(130): wrapper
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(139): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(1500): _get_trace_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(904): _trace_and_get_graph_from_model
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(997): _create_jit_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1113): _model_to_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1564): _export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(502): export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\__init__.py(375): export
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(199): train
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(212): <module>
+
+≤
+fc1.bias
+/fc1/MatMul_output_0/fc1/Add_output_0/fc1/Add"Add2ÌC:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\linear.py(125): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\classifiers.py(24): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(130): wrapper
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(139): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(1500): _get_trace_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(904): _trace_and_get_graph_from_model
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(997): _create_jit_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1113): _model_to_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1564): _export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(502): export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\__init__.py(375): export
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(199): train
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(212): <module>
+
+Â
+/fc1/Add_output_0/Relu_output_0/Relu"Relu2≤C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\classifiers.py(25): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(130): wrapper
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(139): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(1500): _get_trace_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(904): _trace_and_get_graph_from_model
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(997): _create_jit_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1113): _model_to_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1564): _export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(502): export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\__init__.py(375): export
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(199): train
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(212): <module>
+
+º
+/Relu_output_0
+onnx::MatMul_13/fc2/MatMul_output_0/fc2/MatMul"MatMul2ÌC:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\linear.py(125): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\classifiers.py(26): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(130): wrapper
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(139): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(1500): _get_trace_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(904): _trace_and_get_graph_from_model
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(997): _create_jit_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1113): _model_to_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1564): _export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(502): export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\__init__.py(375): export
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(199): train
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(212): <module>
+
+£
+fc2.bias
+/fc2/MatMul_output_011/fc2/Add"Add2ÌC:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\linear.py(125): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\classifiers.py(26): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1726): _slow_forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(130): wrapper
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(139): forward
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1747): _call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\nn\modules\module.py(1736): _wrapped_call_impl
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\jit\_trace.py(1500): _get_trace_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(904): _trace_and_get_graph_from_model
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(997): _create_jit_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1113): _model_to_graph
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(1564): _export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\utils.py(502): export
+C:\Users\Lukas\miniconda3\envs\gurobi-projekt\Lib\site-packages\torch\onnx\__init__.py(375): export
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(199): train
+C:\Users\Lukas\Desktop\Arbeit\BA Projekt\code\omltbenchmark\models\datasets\train_classifier_datasets.py(212): <module>
+
+main_graph* Bfc1.biasJŒÀπ;≈çêΩ£/Sææπ>*Bfc2.biasJçb™>H¬∏>*öBonnx::MatMul_12JÄŒ—í?¡˜˜æËoÍΩgÈfæ≤˘Q?€|æÚõæË[>%+Õ>@_\Ω^å">Õã>:˜îæÆf?¸ÖΩ;í◊>≥≤ö?ÑE2æ^∂¸Ω∞“†>:ËıΩ3A,>scΩÜ4>bÊ∆æù?0/áæ∆¬‹<ÒH?aE¿1Qß>~∑à¿*9Bonnx::MatMul_13J õ>∑ø∫∞∆?ÁE.@ﬁ˛5¿@öΩv∆Ä>«>@@S--¿Z
+onnx::MatMul_0
+
+
+b
+11
+
+
+B

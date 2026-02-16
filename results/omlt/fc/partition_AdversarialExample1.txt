@@ -1,0 +1,8 @@
+Log-file from 'building' test run over models/adversarial_example/AdversarialExample1.onnx. 
+ 
+Formulation type: ReluPartitionFormulation (n=128) 
+ 
+OMLT to Pyomo Build Time: 83.1897 Seconds 
+Pyomo to GurobiPersistent Build Time: 77.8798 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 3249.72    MByte 
+ 

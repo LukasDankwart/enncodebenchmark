@@ -1,0 +1,8 @@
+Log-file from 'building' test run over models/nn4sys/lindex_deep_modified.onnx. 
+ 
+Formulation type: ReluBigMFormulation 
+ 
+OMLT to Pyomo Build Time: 0.8444 Seconds 
+Pyomo to GurobiPersistent Build Time: 0.2951 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 27.34      MByte 
+ 

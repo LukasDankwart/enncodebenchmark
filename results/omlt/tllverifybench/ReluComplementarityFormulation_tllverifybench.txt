@@ -1,0 +1,6 @@
+Log-file from 'building' test run over models/tllverifybench/tllBench_n=2_N=M=16_m=1_instance_1_0.onnx. 
+ 
+OMLT to Pyomo Build Time: 3.6742 Seconds 
+Pyomo to GurobiPersistent Build Time: 0.4618 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 59.40      MByte 
+ 

@@ -1,0 +1,5 @@
+Log-file from 'building' test run over models/nn4sys/lindex_deep_modified.onnx. 
+ 
+GurobiML Build time: 0.3128 seconds 
+GurobiML Memory: 19.68      MByte 
+Presolve call: 0.1684 seconds 

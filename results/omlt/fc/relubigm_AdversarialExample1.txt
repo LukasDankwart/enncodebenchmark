@@ -1,0 +1,8 @@
+Log-file from 'building' test run over models/adversarial_example/AdversarialExample1.onnx. 
+ 
+Formulation type: ReluBigMFormulation 
+ 
+OMLT to Pyomo Build Time: 16.2004 Seconds 
+Pyomo to GurobiPersistent Build Time: 3.6187 Seconds 
+OMLT to Pyomo to GurobiPersistent Memory: 334.69     MByte 
+ 

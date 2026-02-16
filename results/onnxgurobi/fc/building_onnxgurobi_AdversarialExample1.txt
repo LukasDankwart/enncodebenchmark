@@ -1,0 +1,32 @@
+Log-file from 'building' test run over models/adversarial_example/AdversarialExample1.onnx. 
+ 
+ONNXGurobi Build time: 7.9266 seconds 
+ONNXGurobi Memory: 54.84      MByte 
+Presolve call: 4.9639 seconds 
+
+
+
+Set parameter Username
+Set parameter LicenseID to value 2734490
+Academic license - for non-commercial use only - expires 2026-11-07
+Gurobi Optimizer version 12.0.3 build v12.0.3rc0 (win64 - Windows 11+.0 (26200.2))
+
+CPU model: AMD Ryzen 7 5700X 8-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 8 physical cores, 16 logical processors, using up to 16 threads
+
+Presolve a model with 5140 rows, 10418 columns and 2697236 nonzeros
+Model fingerprint: 0x2660ce12
+Model has 5140 simple general constraints
+  5140 MAX
+Variable types: 10418 continuous, 0 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [4e-08, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-05, 9e-02]
+Presolve added 8642 rows and 922 columns
+Presolve time: 4.92s
+ONNXGurobi Build time: 7.9266 Seconds
+ONNXGurobi Memory: 54.84      MByte
+
+Process finished with exit code 0

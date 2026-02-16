@@ -1,0 +1,288 @@
+/usr/bin/python3.10 /home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py
+/home/mustafa/.local/lib/python3.10/site-packages/pandas/core/computation/expressions.py:21: UserWarning: Pandas requires version '2.8.4' or newer of 'numexpr' (version '2.8.1' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+Epoch 1/500, Training Loss: 0.6957017734111883
+Epoch 1/500, Validation Loss: 0.6825881249476702
+Epoch 2/500, Training Loss: 0.673060095677009
+Epoch 2/500, Validation Loss: 0.6559036255494142
+Epoch 3/500, Training Loss: 0.6569859691155262
+Epoch 3/500, Validation Loss: 0.6414650004949325
+Epoch 4/500, Training Loss: 0.647930701145759
+Epoch 4/500, Validation Loss: 0.6337610584650284
+Epoch 5/500, Training Loss: 0.6354344841150137
+Epoch 5/500, Validation Loss: 0.6196725898522597
+Epoch 6/500, Training Loss: 0.6103486580726428
+Epoch 6/500, Validation Loss: 0.5941215031574933
+Epoch 7/500, Training Loss: 0.5776614860999278
+Epoch 7/500, Validation Loss: 0.5714841451400365
+Epoch 8/500, Training Loss: 0.5502065761884054
+Epoch 8/500, Validation Loss: 0.5587881363355196
+Epoch 9/500, Training Loss: 0.5363154667463058
+Epoch 9/500, Validation Loss: 0.5579159548343756
+Epoch 10/500, Training Loss: 0.53008639781903
+Epoch 10/500, Validation Loss: 0.5525143817143563
+Epoch 11/500, Training Loss: 0.5249053579721695
+Epoch 11/500, Validation Loss: 0.5506157882396991
+Epoch 12/500, Training Loss: 0.520652726216194
+Epoch 12/500, Validation Loss: 0.549141114186018
+Epoch 13/500, Training Loss: 0.5220431796709697
+Epoch 13/500, Validation Loss: 0.5505179519531055
+Epoch 14/500, Training Loss: 0.5179649407130021
+Epoch 14/500, Validation Loss: 0.5470988938135979
+Epoch 15/500, Training Loss: 0.5178725385054563
+Epoch 15/500, Validation Loss: 0.5505997050114168
+Epoch 16/500, Training Loss: 0.5137585108402448
+Epoch 16/500, Validation Loss: 0.545353337373489
+Epoch 17/500, Training Loss: 0.5101036244783645
+Epoch 17/500, Validation Loss: 0.5601513478694818
+Epoch 18/500, Training Loss: 0.5167662424918933
+Epoch 18/500, Validation Loss: 0.5469195523628821
+Epoch 19/500, Training Loss: 0.5096447671988071
+Epoch 19/500, Validation Loss: 0.5421335100516295
+Epoch 20/500, Training Loss: 0.5092277337648929
+Epoch 20/500, Validation Loss: 0.5612148037323585
+Epoch 21/500, Training Loss: 0.5085262961265369
+Epoch 21/500, Validation Loss: 0.5416153003619267
+Epoch 22/500, Training Loss: 0.5059813655339754
+Epoch 22/500, Validation Loss: 0.5473562162350386
+Epoch 23/500, Training Loss: 0.5066401909253536
+Epoch 23/500, Validation Loss: 0.5439988456628262
+Epoch 24/500, Training Loss: 0.5040418424361791
+Epoch 24/500, Validation Loss: 0.546644703241495
+Epoch 25/500, Training Loss: 0.5048185411172036
+Epoch 25/500, Validation Loss: 0.5398904409164037
+Epoch 26/500, Training Loss: 0.5063756253780463
+Epoch 26/500, Validation Loss: 0.5396397776481433
+Epoch 27/500, Training Loss: 0.5062274578901438
+Epoch 27/500, Validation Loss: 0.5459723731799003
+Epoch 28/500, Training Loss: 0.4997475505180848
+Epoch 28/500, Validation Loss: 0.5398623228684449
+Epoch 29/500, Training Loss: 0.5041700840607668
+Epoch 29/500, Validation Loss: 0.5389132401270744
+Epoch 30/500, Training Loss: 0.5016839512494894
+Epoch 30/500, Validation Loss: 0.5388320729060051
+Epoch 31/500, Training Loss: 0.5009349414324149
+Epoch 31/500, Validation Loss: 0.5389599073238862
+Epoch 32/500, Training Loss: 0.5018904470174741
+Epoch 32/500, Validation Loss: 0.5390222727335416
+Epoch 33/500, Training Loss: 0.4994632321748978
+Epoch 33/500, Validation Loss: 0.5386898922920227
+Epoch 34/500, Training Loss: 0.4988240271959549
+Epoch 34/500, Validation Loss: 0.5380781547228495
+Epoch 35/500, Training Loss: 0.4982563073207171
+Epoch 35/500, Validation Loss: 0.5372078306247027
+Epoch 36/500, Training Loss: 0.4992768777028108
+Epoch 36/500, Validation Loss: 0.5381585384026552
+Epoch 37/500, Training Loss: 0.4968249354301355
+Epoch 37/500, Validation Loss: 0.5410947520916278
+Epoch 38/500, Training Loss: 0.49782140933550323
+Epoch 38/500, Validation Loss: 0.5366981669572684
+Epoch 39/500, Training Loss: 0.4970458990488297
+Epoch 39/500, Validation Loss: 0.5369712667587476
+Epoch 40/500, Training Loss: 0.49692627002031375
+Epoch 40/500, Validation Loss: 0.5379898172769791
+Epoch 41/500, Training Loss: 0.49700351268817217
+Epoch 41/500, Validation Loss: 0.536724459269108
+Epoch 42/500, Training Loss: 0.49724116490437437
+Epoch 42/500, Validation Loss: 0.5373734974249815
+Epoch 43/500, Training Loss: 0.4927486396447206
+Epoch 43/500, Validation Loss: 0.5483706150910793
+Epoch 44/500, Training Loss: 0.5017866837061369
+Epoch 44/500, Validation Loss: 0.5365217875211666
+Epoch 45/500, Training Loss: 0.498003319196212
+Epoch 45/500, Validation Loss: 0.5354474433874472
+Epoch 46/500, Training Loss: 0.4942994987047636
+Epoch 46/500, Validation Loss: 0.5379095840454101
+Epoch 47/500, Training Loss: 0.49469006257179454
+Epoch 47/500, Validation Loss: 0.5469709752767514
+Epoch 48/500, Training Loss: 0.49749989821360663
+Epoch 48/500, Validation Loss: 0.5357399458151597
+Epoch 49/500, Training Loss: 0.4946617722816956
+Epoch 49/500, Validation Loss: 0.5378405399811573
+Epoch 50/500, Training Loss: 0.4952819153895745
+Epoch 50/500, Validation Loss: 0.5357745619920584
+Epoch 51/500, Training Loss: 0.49335110927239445
+Epoch 51/500, Validation Loss: 0.5487585925444578
+Epoch 52/500, Training Loss: 0.49373045899929147
+Epoch 52/500, Validation Loss: 0.5383332455463898
+Epoch 53/500, Training Loss: 0.492259558958885
+Epoch 53/500, Validation Loss: 0.5362724209443117
+Epoch 54/500, Training Loss: 0.4920400516192118
+Epoch 54/500, Validation Loss: 0.535558780217782
+Epoch 55/500, Training Loss: 0.49371709646322787
+Epoch 55/500, Validation Loss: 0.5353623040517171
+Epoch 56/500, Training Loss: 0.4924287841258905
+Epoch 56/500, Validation Loss: 0.5380778668476985
+Epoch 57/500, Training Loss: 0.4938459147856786
+Epoch 57/500, Validation Loss: 0.534708216557136
+Epoch 58/500, Training Loss: 0.4909343201074845
+Epoch 58/500, Validation Loss: 0.5362205531658271
+Epoch 59/500, Training Loss: 0.49154541461895673
+Epoch 59/500, Validation Loss: 0.5403590685281998
+Epoch 60/500, Training Loss: 0.4923531234570039
+Epoch 60/500, Validation Loss: 0.5339080926699517
+Epoch 61/500, Training Loss: 0.4908324782664959
+Epoch 61/500, Validation Loss: 0.5349301689710373
+Epoch 62/500, Training Loss: 0.49117596204464253
+Epoch 62/500, Validation Loss: 0.5364072502576388
+Epoch 63/500, Training Loss: 0.4900902683001298
+Epoch 63/500, Validation Loss: 0.5334622121468569
+Epoch 64/500, Training Loss: 0.4904888088275225
+Epoch 64/500, Validation Loss: 0.5396547508851076
+Epoch 65/500, Training Loss: 0.48942167025346023
+Epoch 65/500, Validation Loss: 0.5344180097946754
+Epoch 66/500, Training Loss: 0.48902727658932027
+Epoch 66/500, Validation Loss: 0.5349693682866219
+Epoch 67/500, Training Loss: 0.4900799160125928
+Epoch 67/500, Validation Loss: 0.5357251894779694
+Epoch 68/500, Training Loss: 0.4899228992828956
+Epoch 68/500, Validation Loss: 0.5341293597832705
+Epoch 69/500, Training Loss: 0.4861229051076449
+Epoch 69/500, Validation Loss: 0.535801013799814
+Epoch 70/500, Training Loss: 0.4909236168861389
+Epoch 70/500, Validation Loss: 0.533426419099172
+Epoch 71/500, Training Loss: 0.48883557888177726
+Epoch 71/500, Validation Loss: 0.5347736227206695
+Epoch 72/500, Training Loss: 0.48687238732973737
+Epoch 72/500, Validation Loss: 0.5331595632357475
+Epoch 73/500, Training Loss: 0.4861687981776702
+Epoch 73/500, Validation Loss: 0.5328083268801371
+Epoch 74/500, Training Loss: 0.4873805875350267
+Epoch 74/500, Validation Loss: 0.5317328418218172
+Epoch 75/500, Training Loss: 0.4861103694255535
+Epoch 75/500, Validation Loss: 0.5327407267766121
+Epoch 76/500, Training Loss: 0.48394417408185125
+Epoch 76/500, Validation Loss: 0.5331569935113956
+Epoch 77/500, Training Loss: 0.48453324168156353
+Epoch 77/500, Validation Loss: 0.5329442219245129
+Epoch 78/500, Training Loss: 0.4845333624191773
+Epoch 78/500, Validation Loss: 0.5327077946296105
+Epoch 79/500, Training Loss: 0.49065576048997733
+Epoch 79/500, Validation Loss: 0.5339836879265614
+Epoch 80/500, Training Loss: 0.48351049166459303
+Epoch 80/500, Validation Loss: 0.5352218469595298
+Epoch 81/500, Training Loss: 0.4830601514914097
+Epoch 81/500, Validation Loss: 0.5319618081435179
+Epoch 82/500, Training Loss: 0.4913837444476592
+Epoch 82/500, Validation Loss: 0.5312042594567323
+Epoch 83/500, Training Loss: 0.4815096001747327
+Epoch 83/500, Validation Loss: 0.5309222898116479
+Epoch 84/500, Training Loss: 0.4834797254281166
+Epoch 84/500, Validation Loss: 0.5301255686466511
+Epoch 85/500, Training Loss: 0.48065754224092533
+Epoch 85/500, Validation Loss: 0.5330830832628103
+Epoch 86/500, Training Loss: 0.48065573576169135
+Epoch 86/500, Validation Loss: 0.5337332666225922
+Epoch 87/500, Training Loss: 0.478248632198725
+Epoch 87/500, Validation Loss: 0.5499458385125184
+Epoch 88/500, Training Loss: 0.48185938095435116
+Epoch 88/500, Validation Loss: 0.5303495626571851
+Epoch 89/500, Training Loss: 0.478596231784576
+Epoch 89/500, Validation Loss: 0.531763026714325
+Epoch 90/500, Training Loss: 0.4783798873730195
+Epoch 90/500, Validation Loss: 0.5367472673073793
+Epoch 91/500, Training Loss: 0.48281886094655746
+Epoch 91/500, Validation Loss: 0.5320740699156736
+Epoch 92/500, Training Loss: 0.4796331155605805
+Epoch 92/500, Validation Loss: 0.5304086764042194
+Epoch 93/500, Training Loss: 0.4810375157075051
+Epoch 93/500, Validation Loss: 0.5290375371468373
+Epoch 94/500, Training Loss: 0.47844414041592526
+Epoch 94/500, Validation Loss: 0.5283009886130309
+Epoch 95/500, Training Loss: 0.4767147839375031
+Epoch 95/500, Validation Loss: 0.530221872146313
+Epoch 96/500, Training Loss: 0.47725112734696806
+Epoch 96/500, Validation Loss: 0.5323786221406399
+Epoch 97/500, Training Loss: 0.47603637230701934
+Epoch 97/500, Validation Loss: 0.5361341231297224
+Epoch 98/500, Training Loss: 0.4779744205108056
+Epoch 98/500, Validation Loss: 0.528487996321458
+Epoch 99/500, Training Loss: 0.4746589337862455
+Epoch 99/500, Validation Loss: 0.5338133483055311
+Epoch 100/500, Training Loss: 0.47896993903013374
+Epoch 100/500, Validation Loss: 0.5289951628293746
+Epoch 101/500, Training Loss: 0.47332954736856314
+Epoch 101/500, Validation Loss: 0.5303899826758948
+Epoch 102/500, Training Loss: 0.4734013187273955
+Epoch 102/500, Validation Loss: 0.5369586943357418
+Epoch 103/500, Training Loss: 0.4752787616314032
+Epoch 103/500, Validation Loss: 0.5274333993593852
+Epoch 104/500, Training Loss: 0.4724084682953663
+Epoch 104/500, Validation Loss: 0.5294449759752322
+Epoch 105/500, Training Loss: 0.4741566446194282
+Epoch 105/500, Validation Loss: 0.527852000395457
+Epoch 106/500, Training Loss: 0.472088729479374
+Epoch 106/500, Validation Loss: 0.5287760682595082
+Epoch 107/500, Training Loss: 0.47567128013341853
+Epoch 107/500, Validation Loss: 0.527262562360519
+Epoch 108/500, Training Loss: 0.47022891937158046
+Epoch 108/500, Validation Loss: 0.5304674061139425
+Epoch 109/500, Training Loss: 0.4703073652891012
+Epoch 109/500, Validation Loss: 0.5276910995825743
+Epoch 110/500, Training Loss: 0.47167900308584554
+Epoch 110/500, Validation Loss: 0.5297552256095104
+Epoch 111/500, Training Loss: 0.4702651468607096
+Epoch 111/500, Validation Loss: 0.5283081138439667
+Epoch 112/500, Training Loss: 0.4718814494059636
+Epoch 112/500, Validation Loss: 0.5282209229469299
+Epoch 113/500, Training Loss: 0.4687393962114285
+Epoch 113/500, Validation Loss: 0.526891592832712
+Epoch 114/500, Training Loss: 0.46736483861238526
+Epoch 114/500, Validation Loss: 0.5307532035998809
+Epoch 115/500, Training Loss: 0.4692720312338609
+Epoch 115/500, Validation Loss: 0.5287891457631038
+Epoch 116/500, Training Loss: 0.4707884245041089
+Epoch 116/500, Validation Loss: 0.5297363687172915
+Epoch 117/500, Training Loss: 0.46818003620856846
+Epoch 117/500, Validation Loss: 0.5285190118887486
+Epoch 118/500, Training Loss: 0.46591658366032135
+Epoch 118/500, Validation Loss: 0.5305536670562548
+Epoch 119/500, Training Loss: 0.46880920504912355
+Epoch 119/500, Validation Loss: 0.5268929823239644
+Epoch 120/500, Training Loss: 0.4666811612019172
+Epoch 120/500, Validation Loss: 0.5276914187578055
+Epoch 121/500, Training Loss: 0.4634642138236608
+Epoch 121/500, Validation Loss: 0.5285670861831078
+Epoch 122/500, Training Loss: 0.46755079006537414
+Epoch 122/500, Validation Loss: 0.5283230047959547
+Epoch 123/500, Training Loss: 0.4654236921285972
+Epoch 123/500, Validation Loss: 0.5281760434615307
+Early stopping triggered
+/home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py:154: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load('best_model.pth'))
+Classification Accuracy: 0.7835897435897435
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.85      0.83       611
+           1       0.73      0.67      0.70       364
+
+    accuracy                           0.78       975
+   macro avg       0.77      0.76      0.77       975
+weighted avg       0.78      0.78      0.78       975
+
+Exported graph: graph(%onnx::MatMul_0 : Float(11, strides=[1], requires_grad=0, device=cpu),
+      %fc1.bias : Float(33, strides=[1], requires_grad=1, device=cpu),
+      %fc2.bias : Float(22, strides=[1], requires_grad=1, device=cpu),
+      %fc3.bias : Float(11, strides=[1], requires_grad=1, device=cpu),
+      %fc4.bias : Float(2, strides=[1], requires_grad=1, device=cpu),
+      %onnx::MatMul_24 : Float(11, 33, strides=[1, 11], requires_grad=0, device=cpu),
+      %onnx::MatMul_25 : Float(33, 22, strides=[1, 33], requires_grad=0, device=cpu),
+      %onnx::MatMul_26 : Float(22, 11, strides=[1, 22], requires_grad=0, device=cpu),
+      %onnx::MatMul_27 : Float(11, 2, strides=[1, 11], requires_grad=0, device=cpu)):
+  %/fc1/MatMul_output_0 : Float(33, strides=[1], device=cpu) = onnx::MatMul[onnx_name="/fc1/MatMul"](%onnx::MatMul_0, %onnx::MatMul_24), scope: __main__.Classifier::/torch.nn.modules.linear.Linear::fc1 # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:117:0
+  %/fc1/Add_output_0 : Float(33, strides=[1], requires_grad=1, device=cpu) = onnx::Add[onnx_name="/fc1/Add"](%fc1.bias, %/fc1/MatMul_output_0), scope: __main__.Classifier::/torch.nn.modules.linear.Linear::fc1 # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:117:0
+  %/Relu_output_0 : Float(33, strides=[1], requires_grad=1, device=cpu) = onnx::Relu[onnx_name="/Relu"](%/fc1/Add_output_0), scope: __main__.Classifier:: # /home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py:72:0
+  %/fc2/MatMul_output_0 : Float(22, strides=[1], device=cpu) = onnx::MatMul[onnx_name="/fc2/MatMul"](%/Relu_output_0, %onnx::MatMul_25), scope: __main__.Classifier::/torch.nn.modules.linear.Linear::fc2 # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:117:0
+  %/fc2/Add_output_0 : Float(22, strides=[1], requires_grad=1, device=cpu) = onnx::Add[onnx_name="/fc2/Add"](%fc2.bias, %/fc2/MatMul_output_0), scope: __main__.Classifier::/torch.nn.modules.linear.Linear::fc2 # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:117:0
+  %/Relu_1_output_0 : Float(22, strides=[1], requires_grad=1, device=cpu) = onnx::Relu[onnx_name="/Relu_1"](%/fc2/Add_output_0), scope: __main__.Classifier:: # /home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py:74:0
+  %/fc3/MatMul_output_0 : Float(11, strides=[1], device=cpu) = onnx::MatMul[onnx_name="/fc3/MatMul"](%/Relu_1_output_0, %onnx::MatMul_26), scope: __main__.Classifier::/torch.nn.modules.linear.Linear::fc3 # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:117:0
+  %/fc3/Add_output_0 : Float(11, strides=[1], requires_grad=1, device=cpu) = onnx::Add[onnx_name="/fc3/Add"](%fc3.bias, %/fc3/MatMul_output_0), scope: __main__.Classifier::/torch.nn.modules.linear.Linear::fc3 # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:117:0
+  %/Relu_2_output_0 : Float(11, strides=[1], requires_grad=1, device=cpu) = onnx::Relu[onnx_name="/Relu_2"](%/fc3/Add_output_0), scope: __main__.Classifier:: # /home/mustafa/repos/counterfactuals/plausible_counterfactuals/train_classifier_datasets.py:76:0
+  %/fc4/MatMul_output_0 : Float(2, strides=[1], device=cpu) = onnx::MatMul[onnx_name="/fc4/MatMul"](%/Relu_2_output_0, %onnx::MatMul_27), scope: __main__.Classifier::/torch.nn.modules.linear.Linear::fc4 # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:117:0
+  %23 : Float(2, strides=[1], requires_grad=1, device=cpu) = onnx::Add[onnx_name="/fc4/Add"](%fc4.bias, %/fc4/MatMul_output_0), scope: __main__.Classifier::/torch.nn.modules.linear.Linear::fc4 # /home/mustafa/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:117:0
+  return (%23)
+
+Model has been exported as datasets/wine/split/wine.onnx
+
+Process finished with exit code 0
